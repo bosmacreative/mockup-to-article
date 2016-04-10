@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Web development is just like learning a few new languages that are fairly similar. Starting here I’ve been learning about HTML. I just need to learn and begin to understand all the “grammar” of how the language is put together. The true key is to always remember to close the tag that you start with. Another helpful bit of advice is to use tabs to keep track of where I am at with my code. This way I can make sure to end everything I began! It will also be easier to see where the issues are in the future.  
+
+This process has been fairly simple thus far. It is amazing how simple it is to search the internet for the answers when I get stuck! The most difficult part about it is to figure out what the thing I am trying to do is called so I can search for the right thing.
+
+There haven’t been too many times that I’ve needed to problem solve thus far so I’ve only had to use the internet and Udacity forums to figure out my problems. I am sure however, when I get further into it I will need to start drawing out my pages to understand what is going on.
